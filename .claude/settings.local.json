@@ -11,7 +11,9 @@
       "Bash(git lfs *)",
       "Bash(git add *)",
       "Bash(git commit *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(sed -i 's|gsap-trial/ScrollSmoother|gsap/ScrollSmoother|g' src/components/Navbar.tsx src/components/utils/splitText.ts)",
+      "Bash(sed -i 's|gsap-trial/SplitText|gsap/SplitText|g' src/components/utils/initialFX.ts src/components/utils/splitText.ts)"
     ]
   }
 }
