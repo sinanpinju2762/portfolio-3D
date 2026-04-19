@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(npm install *)",
+      "Bash(echo \"@gsap:registry=https://registry.npmjs.org\")",
+      "Bash(rm \"c:/Users/ashiq/Downloads/Portfolio-Website/package-lock.json\")",
+      "Bash(yarn add *)",
+      "Bash(rm -rf .git)",
+      "Bash(git init *)",
+      "Bash(git lfs *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}
